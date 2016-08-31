@@ -28,7 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-THEME='blue-penguin'
+THEME='./blue-penguin'
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
