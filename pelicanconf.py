@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'me'
-SITENAME = u'test'
-SITEURL = ''
+AUTHOR = u'Rajkiran Gaddati'
+SITENAME = u'Rajkiran Gaddati'
+SITEURL = 'rajkirangaddati.com'
 
 PATH = 'content'
 
@@ -28,8 +28,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
+THEME='blue-penguin'
+DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
