@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Rajkiran Gaddati'
 SITENAME = u'Rajkiran Gaddati'
-SITEURL = 'https://rajkirangaddati.com/rapture.git'
+SITEURL = 'https://rajkirangaddati.com'
 
 PATH = 'content'
 
