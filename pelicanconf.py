@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Rajkiran Gaddati'
 SITENAME = u'Rajkiran Gaddati'
-SITEURL = 'http://rajkirangaddati.com'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -28,7 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-THEME='./blue-penguin'
+THEME='/home/rajgad1/rajkirangaddati.com/rapture.git/blue-penguin'
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
