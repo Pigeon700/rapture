@@ -11,6 +11,7 @@ PATH = 'content'
 TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = u'en'
+THEME='/home/rajgad1/rapture.git/blue-penguin'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -28,8 +29,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-THEME='/home/rajgad1/rajkirangaddati.com/rapture.git/blue-penguin'
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
