@@ -11,8 +11,8 @@ PATH = 'content'
 TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = u'en'
-THEME='/home/rajgad1/rapture.git/blue-penguin'
-
+THEME='blue-penguin'
+OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com/blog'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
